@@ -1,4 +1,4 @@
-<h1>Hola, soy <a href="https://github.com/gabrielXreyes/gabrielXReyes/blob/main/cv_Gabriel_Reyes.pdf" target="_blank">Gabriel</a> ¡Bienvenido a GitHub!</h1>
+<h1 aling="center">Hola, soy <a href="https://github.com/gabrielXreyes/gabrielXReyes/blob/main/cv_Gabriel_Reyes.pdf" target="_blank">Gabriel</a> ¡Bienvenido a GitHub!</h1>
 
 
 <!--
