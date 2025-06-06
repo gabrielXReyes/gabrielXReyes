@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy <a href="https://github.com/gabrielXreyes/gabrielXReyes/blob/main/cv_Gabriel_Reyes.pdf" target="_blank">Gabriel</a> ¡Bienvenido a GitHub!</h1>
+<h1 align="center">Hola, soy <a href="https://github.com/gabrielXreyes/gabrielXReyes/blob/main/cv_Gabriel_Reyes.pdf" target="_blank">Gabriel</a> ¡Bienvenido a  mi GitHub!</h1>
 <p text-align="justify">
   Apasionado por las redes, la ciberseguridad y el desarrollo web. Enfocado en formarme como administrador de redes y hacker ético, con interés en fortalecer la seguridad tecnológica mediante la identificación de vulnerabilidades. Experiencia en desarrollo web responsivo con HTML, CSS y JavaScript. Motivado por el aprendizaje continuo y el trabajo en equipo para ofrecer soluciones eficientes y de calidad.
 </p>
